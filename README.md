@@ -8,3 +8,12 @@ https://bom.firpo.ru/Public/87
 4. css
 5. публикация
 6. доп задания, адаптация
+
+
+#MVC - модель, контролер, предстовление
+Модель: БД(SELECT, UPTADE, DELETE)
+View - html and css
+Controller - получает данные из модели, передает в представления
+
+Документы XAMP хранятся в opt/lammp/htdocs
+config/web.php задается ключ
