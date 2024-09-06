@@ -17,3 +17,5 @@ Controller - получает данные из модели, передает �
 
 Документы XAMP хранятся в opt/lammp/htdocs
 config/web.php задается ключ
+
+https://ru.yougile.com/board/hy7fndaaliq0
