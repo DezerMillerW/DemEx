@@ -22,3 +22,4 @@ https://ru.yougile.com/board/hy7fndaaliq0
 
 ![image](https://github.com/user-attachments/assets/c6ea6532-1069-4015-9d2e-a08b2f11b5a4)
 ![image](https://github.com/user-attachments/assets/5c9aa72a-6818-4eef-ae81-4d63a2c56e8f)
+![Uploading image.png…]()
