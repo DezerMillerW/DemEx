@@ -1,6 +1,6 @@
 # DemEx
 https://bom.firpo.ru/Public/87
-
+https://drive.google.com/drive/folders/1KMTPfo54cst0ctjeTpcHmuxHuTEHDDsF?usp=drive_link
 Структура: 
 1. Базовая структура и проверка сайта на сервере
 2. Бд - проверка phpMyAdmin по заданному логину,  вход,  создание бд
